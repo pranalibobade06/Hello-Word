@@ -1,2 +1,5 @@
-# Hello-Word
-This is c language program
+#include<stdio.h>
+void main()
+{
+printf("hello world.......!");
+}
